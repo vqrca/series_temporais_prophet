@@ -1,1 +1,1 @@
-# series_temporais_prophet
+# Curso: Regressão: Previsão de séries temporais com Prophet 
